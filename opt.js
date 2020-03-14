@@ -4,7 +4,7 @@
 
 const porn = require('.');
 
-const url = 'https://www.pornhub.com/view_video.php?viewkey=ph56fc59c124c0c';
+const url = 'https://www.pornhub.org/view_video.php?viewkey=ph5b8253f657449';
 
 const opt = process.argv[2];
 
